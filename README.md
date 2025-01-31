@@ -1,6 +1,6 @@
 Hi 👋, I'm Pratiksha C Khemalapure
-A passionate developer from India 🇮🇳
-pratikshackhemalapure
+A passionate developer from India 
+
 
 🌱 I’m currently learning Machine Learning 
 
